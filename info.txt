@@ -1,0 +1,86 @@
+<section class="hero">
+        <img src="hero-image.jpg" alt="Gender Equality">
+        <div class="cta">
+            <h2>Understand the Gender Pay Gap</h2>
+            <a href="data.html" class="btn">Start Exploring</a>
+        </div>
+    </section>
+
+    <section class="intro">
+        <h2>What is the Gender Pay Gap?</h2>
+        <p>The gender pay gap is the difference in earnings between women and men in the workforce...</p>
+        <a href="about.html" class="btn">Learn More</a>
+    </section>
+
+    <section class="featured-data">
+        <h2>Equal Rights</h2>
+        <div id="data-preview">
+            <!-- Placeholder for data visualization -->
+             <div class="info">
+                <img src="https://africa.unwomen.org/sites/default/files/Field%20Office%20Africa/Images/News/2021/03/Ellen%20Johnson%20Sirleaf.jpg" alt="" class="info-img">
+                <span class="info-name">Damilola Odufuwa and Odunayo Eweniyi</span>
+                <span class="what-they-did">Damilola Odufuwa and Odunayo Eweniyi are successful entrepreneurs and young feminist leaders from Nigeria. Recently, both were named in the Bloomberg 50 list of people who changed global business in 2020 and the TIME Next 100 list in February 2021.
+
+                    Odufuwa and Eweniyi joined forces in 2020 to create the Feminist Coalition, which focuses on women’s rights and safety, economic empowerment, and political participation of women in Nigeria. For its first project, the organisation supported the #EndSARS protests that swept Nigeria in 2020 and organized a food drive for low-income women and their families.
+                    
+                    “A feminist leader will recognize that all women and all men deserve equal opportunities to pursue fulfilling careers and lives, and put structures in place to help others live up to their potential and drive meaningful change,” says Eweniyi. “A feminist leader is empathetic and understands the importance of intersectionality,” adds Odufuwa.
+                    
+                    What can leaders do to lead with feminist principles? Odufuwa says, “employ more women into leadership roles and pay women fairly; be willing to unlearn biases and listen to constructive feedback - then effect change; and be conscious of intersectionality.</span>
+             </div>
+            <!-- Placeholder for data visualization -->
+             <div class="info">
+                <img src="https://africa.unwomen.org/sites/default/files/Field%20Office%20Africa/Images/News/2021/03/Damilola%20Odufuwa.jpg" alt="" class="info-img">
+                <span class="info-name">Ellen Johnson Sirleaf</span>
+                <span class="what-they-did">As Africa’s first democratically-elected woman president, Ellen Johnson Sirleaf led Liberia through reconciliation and recovery following a decade-long civil war and responded to the Ebola Crisis of 2014-2015. She has won international acclaim for the economic, social, and political achievements of her administration, and, in 2011, she was awarded a Nobel Peace Prize for her work to empower women.
+
+                    Today, Sirleaf is an influential voice for expanding women’s political participation and involvement in decision-making processes. “Increasingly there is recognition that full gender equity will ensure a stronger economy, a more developed nation, a more peaceful nation. And that is why we must continue to work,”.</span>
+             </div>
+            <!-- Placeholder for data visualization -->
+             <div class="info">
+                <img src="https://africa.unwomen.org/sites/default/files/Field%20Office%20Africa/Images/News/2021/03/Emtithal%20Mahmoud.png" alt="" class="info-img">
+                <span class="info-name">Emtithal Mahmoud
+                </span>
+                <span class="what-they-did">Emtithal Mahmoud is a world champion slam poet and activist for the refugee cause. Born in Khartoum, Sudan, “Emi” – as she is known among her supporters– immigrated to the United States of America as a child with her family. She uses her talents to shine a light on the experiences of millions of refugees worldwide.
+
+                    “I use my words to raise the alarm on the conflicts of our time...in the hopes that someone might hear something that moves them,” says Emi. In 2016, she was named a UNHCR Goodwill Ambassador and has visited refugee camps in Jordan, Uganda, and Greece, teaching poetry workshops and inspiring countless refugees to share their story.
+                    
+                    </span>
+             </div>
+            <!-- Placeholder for data visualization -->
+             <div class="info">
+                <img src="https://africa.unwomen.org/sites/default/files/Field%20Office%20Africa/Images/News/2021/03/Chief%20Justice%20Maeza.jpg" alt="" class="info-img">
+                <span class="info-name">Meaza Ashenafi
+                </span>
+                <span class="what-they-did">Meaza Ashenafi is the first female Chief Justice of Ethiopia and a trailblazer in many ways, mainly for legal advocacy through her work with Ethiopian Women’s Lawyers Association (EWLA), an organization she co-founded with like-minded young female lawyers. After finishing law school from Addis Ababa University, of which she was the only female graduate from her class year, she served as a criminal court judge, which allowed her to see first-hand how the laws were discriminating against women. 
+
+                    “When we founded EWLA 20 years ago, we did historic work of getting discriminatory laws, such as family law, citizenship law, pension law repealed. We brought the word ‘Sexual Abuse’ and ‘Sexual Harassment’ into the Amharic Language, as there were no words to describe them then”. 
+                    
+                    Chief Justice Meaza is also a co-founder along with other female businesswomen of Enat Bank, the first bank in Ethiopia founded by a female-majority shareholders, which she co-founded after noticing there was lack of financial provision for women.
+                    
+                    “Leadership for me is having a vision and striving to achieve it. Women need to believe that they can do whatever they set themselves to do, despite the society’s pressure and people telling them otherwise. You can only have the power to be a change maker if you believe in yourself,” she says.</span>
+             </div>
+            <!-- Placeholder for data visualization -->
+             <div class="info">
+                <img src="https://africa.unwomen.org/sites/default/files/Field%20Office%20Africa/Images/News/2021/03/Zonewo.jpg" alt="" class="info-img">
+                <span class="info-name">Zoneziwoh Mbondgulo-Wondieh
+                </span>
+                <span class="what-they-did">Feminist blogger and humanitarian reporter from Cameroon, Zoneziwoh Mbondgulo-Wondieh is the founder of the NGO Women for a Change and a member of the civil society advisory group to the Generation Equality Forum.
+
+                    In her work as an activist and as a reporter, Mbondgulo-Wondieh gives voice to Cameroonian women's perspectives on the country's development.
+                    
+                    “We must not lose focus towards accelerating efforts like never before in increasing women’s voices, leadership and agency. The Generation Equality Forum provides us all … an opportunity to ensure that we be the first generation to be serious about realizing an equal future for all,” she said in her remarks at the United Nations commemoration of International Women’s Day 2021.</span>
+             </div>
+            <!-- Placeholder for data visualization -->
+             <div class="info">
+                <img src="https://africa.unwomen.org/sites/default/files/Field%20Office%20Africa/Images/News/2021/03/Glanis%20Changachirere.jpg" alt="" class="info-img">
+                <span class="info-name">Glanis Changachirere
+                </span>
+                <span class="what-they-did">Glanis Changachirere, Zimbabwean women’s rights activist, is the founding Director of the Institute for Young Women Development (IYWD) and the founding Coordinator of the African Women Leaders Forum. She is also a member of the Steering Committee of the Zimbabwean chapter of the UN Women-supported African Women Leaders Network.
+
+                    Raised in the deeply patriarchal, rural province of Mashonaland Central, Zimbabwe, Changachirere explains that it was the pain she experienced trying to assert that girls were equal to boys and deserved equal education and career opportunities that motivated her to start IYDW at the age of 26: “As young women, we need to redefine ourselves, both to ourselves and also to the society they need to see a young women in a different way altogether,” she says.
+                    
+                    In 2013, Changachirere received the 30 Under 30 Democracy Award from the National Endowment for Democracy in recognition of her pioneering work on young women’s political participation. Today, IYWD is a movement of 7,000 young women members across rural and mining communities in the country. At the national level, IYWD is working with the Zimbabwe Gender Commission to introduce a Gender Equality Bill to challenge the cultural inequalities and injustices borne by young women in the country.</span>
+             </div>
+
+        </div>
+    </section>
